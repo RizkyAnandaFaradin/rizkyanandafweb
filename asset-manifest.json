@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rizkyanandafweb/static/css/main.fe3f9a73.css",
-    "main.js": "/rizkyanandafweb/static/js/main.1655ecfd.js",
+    "main.css": "/rizkyanandafweb/static/css/main.de627e30.css",
+    "main.js": "/rizkyanandafweb/static/js/main.cdc19d91.js",
     "static/media/me.png": "/rizkyanandafweb/static/media/me.7a21ea9183c59026c080.png",
     "static/media/me2.png": "/rizkyanandafweb/static/media/me2.947f23132cf04e2610c1.png",
     "static/media/IT.jpg": "/rizkyanandafweb/static/media/IT.cc3e09ab369df32515de.jpg",
@@ -17,11 +17,11 @@
     "static/media/cv.pdf": "/rizkyanandafweb/static/media/cv.72b5bab8b72cd006c7e4.pdf",
     "static/media/img5.jpeg": "/rizkyanandafweb/static/media/img5.281ad426b5e07b9759db.jpeg",
     "index.html": "/rizkyanandafweb/index.html",
-    "main.fe3f9a73.css.map": "/rizkyanandafweb/static/css/main.fe3f9a73.css.map",
-    "main.1655ecfd.js.map": "/rizkyanandafweb/static/js/main.1655ecfd.js.map"
+    "main.de627e30.css.map": "/rizkyanandafweb/static/css/main.de627e30.css.map",
+    "main.cdc19d91.js.map": "/rizkyanandafweb/static/js/main.cdc19d91.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe3f9a73.css",
-    "static/js/main.1655ecfd.js"
+    "static/css/main.de627e30.css",
+    "static/js/main.cdc19d91.js"
   ]
 }
