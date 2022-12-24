@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rizkyanandafweb/static/css/main.de627e30.css",
-    "main.js": "/rizkyanandafweb/static/js/main.6495bc32.js",
+    "main.js": "/rizkyanandafweb/static/js/main.c9729dda.js",
     "static/media/me.png": "/rizkyanandafweb/static/media/me.7a21ea9183c59026c080.png",
     "static/media/me2.png": "/rizkyanandafweb/static/media/me2.947f23132cf04e2610c1.png",
     "static/media/IT.jpg": "/rizkyanandafweb/static/media/IT.cc3e09ab369df32515de.jpg",
@@ -14,14 +14,14 @@
     "static/media/img2.jpeg": "/rizkyanandafweb/static/media/img2.cac65c3fac41a2731b0b.jpeg",
     "static/media/img1.jpeg": "/rizkyanandafweb/static/media/img1.1560fc488724fb886287.jpeg",
     "static/media/img3.png": "/rizkyanandafweb/static/media/img3.fe8ece5ee3ef8356a5b3.png",
-    "static/media/CV-RizkyAnandaF.pdf": "/rizkyanandafweb/static/media/CV-RizkyAnandaF.21578e21aeb04e4d5e74.pdf",
+    "static/media/CV-RizkyAnandaF.pdf": "/rizkyanandafweb/static/media/CV-RizkyAnandaF.4fa90b05b6e88fad3799.pdf",
     "static/media/img5.jpeg": "/rizkyanandafweb/static/media/img5.281ad426b5e07b9759db.jpeg",
     "index.html": "/rizkyanandafweb/index.html",
     "main.de627e30.css.map": "/rizkyanandafweb/static/css/main.de627e30.css.map",
-    "main.6495bc32.js.map": "/rizkyanandafweb/static/js/main.6495bc32.js.map"
+    "main.c9729dda.js.map": "/rizkyanandafweb/static/js/main.c9729dda.js.map"
   },
   "entrypoints": [
     "static/css/main.de627e30.css",
-    "static/js/main.6495bc32.js"
+    "static/js/main.c9729dda.js"
   ]
 }
