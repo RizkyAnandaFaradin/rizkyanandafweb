@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rizkyanandafweb/static/css/main.7e79cbd0.css",
-    "main.js": "/rizkyanandafweb/static/js/main.dd7be797.js",
+    "main.js": "/rizkyanandafweb/static/js/main.9cc5c700.js",
     "static/media/me.png": "/rizkyanandafweb/static/media/me.7a21ea9183c59026c080.png",
     "static/media/me2.png": "/rizkyanandafweb/static/media/me2.947f23132cf04e2610c1.png",
     "static/media/sertikom.jpg": "/rizkyanandafweb/static/media/sertikom.2809ff8de734ec7b70f9.jpg",
@@ -16,14 +16,15 @@
     "static/media/img4.jpeg": "/rizkyanandafweb/static/media/img4.3cd1e265b401daf8f907.jpeg",
     "static/media/img2.jpeg": "/rizkyanandafweb/static/media/img2.cac65c3fac41a2731b0b.jpeg",
     "static/media/img1.jpeg": "/rizkyanandafweb/static/media/img1.1560fc488724fb886287.jpeg",
+    "static/media/img7.jpeg": "/rizkyanandafweb/static/media/img7.38d707f21de99fec28e5.jpeg",
     "static/media/img3.png": "/rizkyanandafweb/static/media/img3.fe8ece5ee3ef8356a5b3.png",
     "static/media/img5.jpeg": "/rizkyanandafweb/static/media/img5.281ad426b5e07b9759db.jpeg",
     "index.html": "/rizkyanandafweb/index.html",
     "main.7e79cbd0.css.map": "/rizkyanandafweb/static/css/main.7e79cbd0.css.map",
-    "main.dd7be797.js.map": "/rizkyanandafweb/static/js/main.dd7be797.js.map"
+    "main.9cc5c700.js.map": "/rizkyanandafweb/static/js/main.9cc5c700.js.map"
   },
   "entrypoints": [
     "static/css/main.7e79cbd0.css",
-    "static/js/main.dd7be797.js"
+    "static/js/main.9cc5c700.js"
   ]
 }
