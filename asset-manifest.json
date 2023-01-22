@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/rizkyanandafweb/static/css/main.7e79cbd0.css",
-    "main.js": "/rizkyanandafweb/static/js/main.994dd5d3.js",
+    "main.css": "/rizkyanandafweb/static/css/main.0437eb88.css",
+    "main.js": "/rizkyanandafweb/static/js/main.9276fe99.js",
     "static/media/me.png": "/rizkyanandafweb/static/media/me.7a21ea9183c59026c080.png",
     "static/media/me2.png": "/rizkyanandafweb/static/media/me2.947f23132cf04e2610c1.png",
     "static/media/sertikom.jpg": "/rizkyanandafweb/static/media/sertikom.2809ff8de734ec7b70f9.jpg",
+    "static/media/logoRANF.png": "/rizkyanandafweb/static/media/logoRANF.754ffd2e9a346b723afb.png",
     "static/media/IT.jpg": "/rizkyanandafweb/static/media/IT.cc3e09ab369df32515de.jpg",
     "static/media/Desain2.jpg": "/rizkyanandafweb/static/media/Desain2.6c8f7681fa41584bf892.jpg",
     "static/media/cloud.jpg": "/rizkyanandafweb/static/media/cloud.21d7d1d6bb5c0d5c16e9.jpg",
@@ -20,11 +21,11 @@
     "static/media/img3.png": "/rizkyanandafweb/static/media/img3.fe8ece5ee3ef8356a5b3.png",
     "static/media/img5.jpeg": "/rizkyanandafweb/static/media/img5.281ad426b5e07b9759db.jpeg",
     "index.html": "/rizkyanandafweb/index.html",
-    "main.7e79cbd0.css.map": "/rizkyanandafweb/static/css/main.7e79cbd0.css.map",
-    "main.994dd5d3.js.map": "/rizkyanandafweb/static/js/main.994dd5d3.js.map"
+    "main.0437eb88.css.map": "/rizkyanandafweb/static/css/main.0437eb88.css.map",
+    "main.9276fe99.js.map": "/rizkyanandafweb/static/js/main.9276fe99.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e79cbd0.css",
-    "static/js/main.994dd5d3.js"
+    "static/css/main.0437eb88.css",
+    "static/js/main.9276fe99.js"
   ]
 }
