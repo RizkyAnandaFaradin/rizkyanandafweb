@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rizkyanandafweb/static/css/main.0437eb88.css",
-    "main.js": "/rizkyanandafweb/static/js/main.9276fe99.js",
+    "main.js": "/rizkyanandafweb/static/js/main.634be86d.js",
     "static/media/me.png": "/rizkyanandafweb/static/media/me.7a21ea9183c59026c080.png",
     "static/media/me2.png": "/rizkyanandafweb/static/media/me2.947f23132cf04e2610c1.png",
     "static/media/sertikom.jpg": "/rizkyanandafweb/static/media/sertikom.2809ff8de734ec7b70f9.jpg",
@@ -13,7 +13,7 @@
     "static/media/visual.jpg": "/rizkyanandafweb/static/media/visual.28ae418cf723f45054d5.jpg",
     "static/media/bg-texture.png": "/rizkyanandafweb/static/media/bg-texture.957de21cb7b853305b58.png",
     "static/media/img6.jpeg": "/rizkyanandafweb/static/media/img6.7024130174ef1168d472.jpeg",
-    "static/media/CV-RizkyAnandaF.pdf": "/rizkyanandafweb/static/media/CV-RizkyAnandaF.3cef002ca54d782591ae.pdf",
+    "static/media/CV-RizkyAnandaF.pdf": "/rizkyanandafweb/static/media/CV-RizkyAnandaF.5432aa5274f66ef479a1.pdf",
     "static/media/img4.jpeg": "/rizkyanandafweb/static/media/img4.3cd1e265b401daf8f907.jpeg",
     "static/media/img2.jpeg": "/rizkyanandafweb/static/media/img2.cac65c3fac41a2731b0b.jpeg",
     "static/media/img1.jpeg": "/rizkyanandafweb/static/media/img1.1560fc488724fb886287.jpeg",
@@ -22,10 +22,10 @@
     "static/media/img5.jpeg": "/rizkyanandafweb/static/media/img5.281ad426b5e07b9759db.jpeg",
     "index.html": "/rizkyanandafweb/index.html",
     "main.0437eb88.css.map": "/rizkyanandafweb/static/css/main.0437eb88.css.map",
-    "main.9276fe99.js.map": "/rizkyanandafweb/static/js/main.9276fe99.js.map"
+    "main.634be86d.js.map": "/rizkyanandafweb/static/js/main.634be86d.js.map"
   },
   "entrypoints": [
     "static/css/main.0437eb88.css",
-    "static/js/main.9276fe99.js"
+    "static/js/main.634be86d.js"
   ]
 }
