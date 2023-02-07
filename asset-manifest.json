@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rizkyanandafweb/static/css/main.0437eb88.css",
-    "main.js": "/rizkyanandafweb/static/js/main.1dbeb423.js",
+    "main.js": "/rizkyanandafweb/static/js/main.221b08d1.js",
     "static/media/sertikom.jpg": "/rizkyanandafweb/static/media/sertikom.2809ff8de734ec7b70f9.jpg",
     "static/media/logoRANF.png": "/rizkyanandafweb/static/media/logoRANF.754ffd2e9a346b723afb.png",
     "static/media/IT.jpg": "/rizkyanandafweb/static/media/IT.cc3e09ab369df32515de.jpg",
@@ -22,10 +22,10 @@
     "static/media/img5.jpeg": "/rizkyanandafweb/static/media/img5.281ad426b5e07b9759db.jpeg",
     "index.html": "/rizkyanandafweb/index.html",
     "main.0437eb88.css.map": "/rizkyanandafweb/static/css/main.0437eb88.css.map",
-    "main.1dbeb423.js.map": "/rizkyanandafweb/static/js/main.1dbeb423.js.map"
+    "main.221b08d1.js.map": "/rizkyanandafweb/static/js/main.221b08d1.js.map"
   },
   "entrypoints": [
     "static/css/main.0437eb88.css",
-    "static/js/main.1dbeb423.js"
+    "static/js/main.221b08d1.js"
   ]
 }
